@@ -1,0 +1,133 @@
+.top-container{
+    background-color:#9f3959b6;
+}
+
+.top-cloud{
+margin-top: 40px;
+margin-left: 1100px;   
+}
+
+.middle-cloud{
+position: absolute;
+left: 250px;
+top: 400px;
+}
+
+.mountain{
+    display: block;
+    margin: 140px auto
+}
+
+.title-text{
+    text-align: center;
+    color: #000000;
+    font-family: "Sacramento", cursive;
+    font-style:oblique;
+    font-size: 29px;
+}
+
+.profile-image{
+    height: 100px;
+    border-radius: 50%;
+    display: block;
+    margin: 100px auto 0;
+   height: 200px;
+   width: 200px;
+}
+
+.h2{
+    text-align: center;
+    font-size: 35px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(255, 77, 0);
+}
+
+.intro{
+    text-align: center;
+    line-height: 2;
+    font-size: 25px;
+    margin: auto;
+    margin-bottom: 80px;
+    width: 30%;
+}
+
+.skills{
+    margin-bottom: 100px;
+}
+.parent{
+    display: grid;
+    grid-template-columns: 0.80fr 1fr;
+}
+
+.typing{
+    margin-left: 400px;
+}
+
+.coding, .photography{
+    width: 50%;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    padding-left: 20px; 
+    margin-top: -40px;  
+}
+
+.parent{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    row-gap: 80px;
+}
+
+
+h3{
+    color: rgb(0, 170, 255);
+    font-size: 30px;
+}
+
+.svg{
+    position: relative;
+    margin-left: 400px;
+   
+}
+
+.contact-me{
+    text-align: center;
+    font-size: 25px;
+}
+
+.contact{
+    width: 35%;
+    margin-left: 32%;
+    padding-bottom: 10px;
+}
+
+.desc, .head{
+    padding-bottom: 10px;
+}
+
+.btn{
+    background-color: #019095;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
+    font-size: 25px;
+    font-family:"Montserrat", sans-serif;
+    text-decoration: none;
+    
+}
+
+.bottom-container{
+    background-color: #66bfbf;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 100px;
+    padding: 50px 0px 25px;
+}
+
+.footer-link{
+    margin: 20px 20px;
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #000000;
+}
